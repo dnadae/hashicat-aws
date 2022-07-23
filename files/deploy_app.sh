@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to DS's app. My change DS.
+  Welcome to ddS's app. My change at 23-07-2022.
   <!-- END -->
 
   </div>
