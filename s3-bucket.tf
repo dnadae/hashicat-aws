@@ -1,5 +1,5 @@
 module "s3-bucket" {
-  source  = "app.terraform.io/AWS-dso-test/s3-bucket/aws"
-  version = "2.2.0"
-  # insert required variables here
+  source  = "app.terraform.io/hashids-train/s3-bucket/aws"
+  version = "2.8.0"
+  bucket_prefix = "dso"
 }
